@@ -1,6 +1,6 @@
 # forecastree
 
-Environmental health monitoring app to understand future disease spread in UK woodlands. This uses spatial simulations built using the stochadex framework.
+Environmental health monitoring and forecasting to understand future disease spread in UK woodlands. This uses spatial simulations built using the stochadex framework.
 
 ## Data sources for the project
 
